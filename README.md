@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @huriqian
-- 👀 I’m interested in Instruments/coding/running/digital games
-- 🌱 I’m currently learning Java/Front-end
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me jhlxhrq@163.com
+- 👋 Hi, I’m @huriqian from HDU, China.
+- 👀 I’m interested in digital technology.
+- 🌱 I’m currently learning Machine-Learning.
+- 💞️ I’m looking to collaborate on Web Development.
+- 📫 How to reach me jhlxhrq@163.com.
+- 💪 Also, I'm acquainted with Java/Front-end.
 
 <!---
 huriqian/huriqian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
